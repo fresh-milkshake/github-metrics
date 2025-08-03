@@ -19,8 +19,8 @@ A Python script to analyze download statistics for all releases across all repos
     GITHUB_TOKEN=your_github_token
     ```
 
-    > [!TIP]
-    > You can get your GitHub token from [here](https://github.com/settings/tokens). You need to create a token with the `public_repo` scope.
+> [!TIP]
+> You can get your GitHub token from [here](https://github.com/settings/tokens). You need to create a token with the `public_repo` scope.
 
 ## Usage
 
