@@ -232,8 +232,8 @@ class GitHubReleasesAnalyzer:
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python github_releases_downloads.py <username>")
-        print("Example: python github_releases_downloads.py octocat")
+        print("Usage: python github-metrics.py <username>")
+        print("Example: python github-metrics.py octocat")
         print(
             "\nFor best performance, create a .env file with the GITHUB_TOKEN variable"
         )
